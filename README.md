@@ -2,7 +2,7 @@
 
 This project implements the ASG algorithm in the paper: 
 
-> Yang Yu, Wei-Yang Qu, Nan Li, and Zimin Guo. Open category classification by adversarial sample generation. In: Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI'17), Melbourne, Australia, 2017
+> Yang Yu, Wei-Yang Qu, Nan Li, and Zimin Guo. Open category classification by adversarial sample generation. In: Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI'17), Melbourne, Australia, 2017 ([PDF](http://lamda.nju.edu.cn/yuy/GetFile.aspx?File=papers/ijcai17-ASG-longer.pdf))
 
 **Open category classification** aims at training a classifier that is aware of possible unseen classes at the test time. The classifier should tell *unseen* for a test instance, if this instance belongs to a class that never appeared in the training data. Open category classifier is much more robust for real-world classification tasks, where the environment is open and changing as always.
 
